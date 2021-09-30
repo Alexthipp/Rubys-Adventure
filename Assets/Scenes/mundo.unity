@@ -3855,10 +3855,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby Static
       objectReference: {fileID: 0}
-    - target: {fileID: 8088826091689239190, guid: 51081b6470da7524092d6acf6e9f2871, type: 3}
-      propertyPath: m_GravityScale
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51081b6470da7524092d6acf6e9f2871, type: 3}
 --- !u!1001 &8917917998596593013
