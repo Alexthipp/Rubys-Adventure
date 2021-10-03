@@ -5,6 +5,7 @@ using UnityEngine;
 public class HealthCollectible : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other){
+
        RubysController controller = other.GetComponent<RubysController>();
 
        if (controller != null)
