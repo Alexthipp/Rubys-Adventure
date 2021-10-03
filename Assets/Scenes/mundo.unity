@@ -3856,7 +3856,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8476019287084869736, guid: 1d246ac0b86cddb48856719a570b9b02, type: 3}
       propertyPath: changeTime
-      value: 2.5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8476019287084869737, guid: 1d246ac0b86cddb48856719a570b9b02, type: 3}
       propertyPath: m_RootOrder
@@ -4421,7 +4421,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3329025482419228832, guid: 51081b6470da7524092d6acf6e9f2871, type: 3}
       propertyPath: Speed
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3329025482419228834, guid: 51081b6470da7524092d6acf6e9f2871, type: 3}
       propertyPath: m_RootOrder

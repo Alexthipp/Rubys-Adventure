@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8476019287084869738}
   - component: {fileID: 8476019287084869739}
   - component: {fileID: 8476019287084869732}
+  - component: {fileID: 1327750596103695990}
   - component: {fileID: 8476019287084869736}
   m_Layer: 0
   m_Name: Mr Clockwork
@@ -132,6 +133,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7801787, y: 0.75012374}
   m_EdgeRadius: 0
+--- !u!95 &1327750596103695990
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8476019287084869733}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ab71dbee28fe1c44d858220514bab75d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &8476019287084869736
 MonoBehaviour:
   m_ObjectHideFlags: 0
